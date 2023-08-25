@@ -19,7 +19,7 @@ Projects I've been on:
 - 😺 [Travelception](https://team-n.itch.io/travelception):
 A game made by [Team Ñ](https://team-n.itch.io) which I'm a member of.
 
-- 📡 [My webpage](https://team-n.itch.io):
+- 📡 [My webpage](https://users.dcc.uchile.cl/~acaldero/):
 My own webpage (WIP).
 
 
