@@ -10,7 +10,7 @@ Some of the topics I'm interested in:
 - 📶 Web development
 - ⌛ Efficiency
 - 🎓 Education
-- 🌈 Graphic Dessign
+- 🌈 Graphic Design
 - 🔢 Mathematics
 
 ## 💡 Others 💡
