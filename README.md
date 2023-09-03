@@ -11,6 +11,7 @@ Some of the topics I'm interested in:
 - ⌛ Efficiency
 - 🎓 Education
 - 🌈 Graphic Design
+- 📊 Data Science
 - 🔢 Mathematics
 
 ## 💡 Others 💡
