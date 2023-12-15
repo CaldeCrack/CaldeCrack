@@ -5,12 +5,12 @@ I'm a 20 y.o. STEM student, currently studying at [Universidad de Chile](https:/
 Some of the topics I'm interested in:
 
 - 🎮 Videogame developing
-- 📁 MIR (Multimedia Information Recovery)
-- 🎓 Education
 - 📶 Web development
-- 🧠 Artificial Intelligence
-- 🌈 Graphic Design
+- 📁 MIR (Multimedia Information Recovery)
 - 📊 Data Science
+- 🧠 Artificial Intelligence
+- 🎓 Education
+- 🌈 Graphic Design
 - 🔢 Mathematics
 
 ## 💡 Others 💡
