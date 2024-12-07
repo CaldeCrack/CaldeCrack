@@ -8,7 +8,6 @@ Some of the topics I'm interested in:
 - ⚙️ Machine Learning
 - 🎮 Videogame developing
 - 🧠 Artificial Intelligence
-- 📊 Data Science
 
 ## 💡 Others 💡
 Projects I've been on:
@@ -26,6 +25,7 @@ My own webpage (WIP).
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://github.com/TheMilanMiracle/TheMilanMiracle/assets/128413050/8697c546-ea82-4b01-8450-8a32ef8064c5)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
