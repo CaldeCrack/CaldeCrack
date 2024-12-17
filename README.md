@@ -18,6 +18,8 @@ Local webpage created in a team conformed by 5 people (including me).
 - 😺 [Travelception](https://team-n.itch.io/travelception):
 A game made by [Team Ñ](https://team-n.itch.io) which I'm a member of.
 
+- 🎰 [Casino Showdown](https://spinlockgames.itch.io/casino-showdown): A game made by [Spinlockgames 🗣️🗣️](https://spinlockgames.itch.io/) which I'm a member of.
+
 - 📡 [My webpage](https://users.dcc.uchile.cl/~acaldero/):
 My own webpage (WIP).
 
@@ -30,10 +32,7 @@ My own webpage (WIP).
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SQL](https://github.com/TheMilanMiracle/TheMilanMiracle/assets/128413050/8697c546-ea82-4b01-8450-8a32ef8064c5)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tex/LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaldeCrack&size_weight=0.5&count_weight=0.5&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
