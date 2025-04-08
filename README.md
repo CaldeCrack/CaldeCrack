@@ -1,5 +1,5 @@
 ## 💬 About me 🗨️
-I'm a 21 y.o. STEM student, currently studying at [Universidad de Chile](https://uchile.cl), [FCFM](https://ingenieria.uchile.cl), within the [CS Department](https://www.dcc.uchile.cl).
+I'm a 22 y.o. STEM student, currently studying at [Universidad de Chile](https://uchile.cl), [FCFM](https://ingenieria.uchile.cl), within the [CS Department](https://www.dcc.uchile.cl).
 
 ## 📍 Topics 📍
 Some of the topics I'm interested in:
