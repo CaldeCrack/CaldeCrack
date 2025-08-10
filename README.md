@@ -11,13 +11,9 @@ Some of the topics I'm interested in:
 ## 💡 Others 💡
 Projects I've been on:
 
-- 🛜 [Stack Overbuxef](https://github.com/DCC-CC4401/2024-1-CC4401-1-grupo-4):
-Local webpage created in a team conformed by 5 people (including me).
-- 😺 [Travelception](https://team-n.itch.io/travelception):
-A game made by [Team Ñ](https://team-n.itch.io) which I'm a member of.
+- 🛜 [Stack Overbuxef](https://github.com/DCC-CC4401/2024-1-CC4401-1-grupo-4): Local webpage created in a team conformed by 5 people (including me).
+- 😺 [Travelception](https://team-n.itch.io/travelception): A game made by [Team Ñ](https://team-n.itch.io) which I'm a member of.
 - 🎰 [Casino Showdown](https://spinlockgames.itch.io/casino-showdown): A game made by [Spinlockgames 🗣️🗣️](https://spinlockgames.itch.io/) which I'm a member of.
-- 📡 [My webpage](https://users.dcc.uchile.cl/~acaldero/):
-My own webpage (WIP).
 
 ## 💻 Languages | Frameworks 💻
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
