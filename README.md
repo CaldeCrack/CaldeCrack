@@ -24,7 +24,7 @@ Projects I've been on:
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SQL](https://github.com/TheMilanMiracle/TheMilanMiracle/assets/128413050/8697c546-ea82-4b01-8450-8a32ef8064c5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaldeCrack&size_weight=0.5&count_weight=0.5&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaldeCrack&size_weight=0.5&count_weight=0.5&layout=compact&theme=omni&hide=html,jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Libraries 📚
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
